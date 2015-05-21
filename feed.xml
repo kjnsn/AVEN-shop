@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>AVEN Shop</title>
+    <description></description>
+    <link>http://partch.anu.edu.au.virtual.anu.edu.au/~u5839143/feed.xml</link>
+    <lastBuildDate>Thu, 21 May 2015 00:01:00 +0100 </lastBuildDate>
+    <pubDate>Thu, 21 May 2015 16:20:00 +0100</pubDate>
+    <ttl>1800</ttl>
+
+    <item>
+      <title>Now live</title>
+      <description>This website is how live!  Check it out.</description>
+      <guid isPermaLink="true">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>
+      <pubDate>Thu, 21 May 2015 16:20:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
