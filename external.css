@@ -1,0 +1,287 @@
+
+/*I will be specifying which rules are mine through comments.*/
+
+    /*Mine*/body {background-color: #754F7F}
+a {
+    color: #a1a1a1;
+    }
+a:active {
+    color: #a1a1a1;
+    }
+a:visited {
+    color: #a1a1a1;
+    }
+body,tr,td,caption {
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    color: #636363;
+    }
+form,input,button,select,option {
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    }
+.smallprint {
+    font-size:8pt;
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    }
+.tableheaderbg {
+    background-color: #000000;
+    color: #000000;
+    font-weight: bold;
+    }
+.tablebg {
+    background-color: #F5F5F5;
+    color: #000000;
+    }
+.tablebg2 {
+    background-color: #E9E9E9;
+    color: #000000;
+    }
+.sidebarbg {
+    background-color: #ffffff;
+    }
+    /*Mine (adapted)*/.smallsidebartext {
+        font-size:10pt;
+        color: #000000;
+        font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+        }
+    /*Mine (adapted)*/.smallselectedsidebartext {
+        font-size:10pt;
+        color: #000000;
+        font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+        font-weight:bold;
+        }
+.sidebartext {
+    color: #000000;
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    }
+.head ,h1 {
+    color: #000000;
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    }
+.alertmessage {
+    color: #ff0000;
+    font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;
+    }
+img.imageborder,div.imageborder {
+    border-width:0;
+    }
+    /*Mine*/.storesmallprint {
+        font-size: 10pt;
+        }
+
+
+
+    body
+        {
+        /*Mine (adapted)*/background-color:#ebebeb;
+
+        }
+    #cpWrapper{
+        padding:0;
+        /*Mine (adapted)*/background: #ccc;
+        /*Mine (adapted)*/width:99%;
+        margin:auto;
+        /*Mine*/min-width: 800px;
+
+        }
+    #shopContainer{
+        width:100%;
+        background-color:#ffffff;
+        border:1px;
+        }
+    #shopBorder{
+        border:0px;
+        background-color:#dfdede;
+        border-top:0;
+        }
+    #shopWrapper{
+        background-color:#ffffff;
+        border:0;
+        }
+    #shopHeader{
+        background-color:#ffffff;
+        }
+    /*Mine (adapted)*/#shopHeader a{
+        text-decoration:none;
+        }
+   .bodyText a{
+        text-decoration:none;
+        }
+    .center
+        {
+        margin:auto;
+        width:50%;
+        }
+    /*Mine (adapted)*/#sidebarContentTD {
+    width: 200px;
+    float: left;
+        }
+    /*Mine*/#sidebarContent a {
+        text-decoration: none;
+    }
+
+    .shop-sections {
+      list-style: none;
+    }
+
+    .shop-sections li {
+    }
+
+    #Section table,td{
+        margin-top:-20px;
+    }
+    #Event table,td{
+        margin-top:20px;
+    }
+    #SectionHeader {
+    }
+    #EventHeader {
+        margin-top:20px;
+    }
+
+    .promoBox{
+        margin-top:50px;
+        }
+    .sidebarbg {
+        background-color:#ffffff;
+        border-right: 1px dashed #b5b7b7;
+        }
+    /*Mine (adapted)*/#shopName{
+        font-family:Georgia,Times, Sans-Serif;
+        font-size:20px;
+        color:#636363;
+        text-align:center;
+        padding: 20px 10px;
+        background-color: #f0f0f0;
+        border: 1px solid #e0e0e0;
+        }
+    #colorBar{
+        height:16px;
+        }
+    /*Mine (adapted)*/#topNav{
+        background-color:#ffffff;
+        font-family:Helvetica,"times New Roman",Times,serif;
+        font-size:16px;
+        font-weight:bold;
+        color:#ffffff;
+        text-align:center;
+        width:100%;
+        border-top: 10px solid #6e4a78;
+        border-bottom: 1px solid #636363;
+        }
+    #topNav ul, #topNav ul li{
+        margin:0;
+        padding:0;
+        list-style:none;
+        float:left;
+        }
+    /*Mine (adapted)*/#topNav ul{
+        width:100%;
+        }
+    /*Mine (adapted)*/#topNav ul li a{
+        display:block;
+        padding:15px 27px;
+        line-height:100%;
+        color:#666;
+        text-decoration:none;
+        }
+    /*Mine (adapted)*/#topNav ul li a:hover{
+        color:#999;
+        }
+
+
+    /*Mine*/span .white{
+        color:#FFF;
+        }
+    /*Mine*/#endtext {
+        text-align: center;
+        color:#eee;
+        background-color: #6e4a78;
+        }
+
+/*The following is used with permission from the webmasters of the Asexual Visibility and Education Network*/
+/*The reason for using this specific CSS is to show that this is indeed an official branch of AVEN, a necessary
+connection if the goals in the introduction of the assignment are to be achieved. Please contact me if this is
+in breach of the assignment rules*/
+
+    #header {
+        background: #6e4a78 url("http://www.asexuality.org//home/sites/all/themes/aven/images/background.png") no-repeat center center;
+        border: 1px solid #636;
+        border-left: 0px;
+        border-right: 0px;
+        width: 100%;
+        display: block;
+        height: 145px;
+        }
+
+    #header #logo {
+        display: block;
+        float: left;
+        margin: 24px 24px 24px 24px;
+        }
+    #header #logo img {
+        height: 60px;
+        margin: 10px;
+        padding: 0;
+        }
+
+    #header .definition {
+        color: #fff;
+        float: left;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 18px;
+        font-style: italic;
+        line-height: 24px;
+        margin: 36px 0 12px 48px;
+        text-shadow: 1px 1px #333;
+        }
+    #header .definition span {
+        color: #c9aad2;
+        font-size: 24px;
+        }
+    #header .definition a.action-button {
+        font-family: Helvetica, Arial, sans-serif;
+        font-style: normal;
+        margin: 0 0 0 24px;
+        }
+    ul ul {
+        position: absolute;
+        display: none;
+        width: auto;
+        }
+    li:hover ul {
+        display: block;
+        background-color:#ffffff;
+        }
+
+/*---------------End Asexual Visibility and Education Network code---------------*/
+
+    /*Mine*/#main {
+        margin-left: 10px;
+        margin-right: 10px;
+        float: left;
+        width: 80%;
+    }
+    #buttons {
+        margin-top:1050px;
+        margin-left:10px;
+        position: absolute;
+    }
+    #video {
+        margin-left: 100px;
+    }
+    #cafepressFooter {
+      clear: both;
+    }
+
+/* Kaley */
+
+.clearfix {
+overflow: auto;
+zoom: 1;
+}
+
+.shop-item img {
+  display: block;
+  max-width: 150px;
+  margin: 10px auto;
+}

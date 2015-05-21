@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Image gallery</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/utter/</ImageTemplate>
+            <ImageTemplateName>Utter</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Queen Victoria/Documents/Uni/COMP1710/Assignment/PhotoGallery.html</PublishFileName>
+            <PublishIndex>PhotoGallery.html</PublishIndex>
+            <PublishPath>C:/Users/Queen Victoria/Documents/Uni/COMP1710/Assignment</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>34</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000000</TemplateColor>
+            <TemplateFont>Montserrat</TemplateFont>
+            <TemplateName>utter</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/hXDdj2Y.png</url>
+                <title>AVENites marching in Toronto 2014</title>
+                <filesize>1093933</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/I1MM07R.png</url>
+                <title>'Too asexy for sex' - from Toronto 2014</title>
+                <filesize>260668</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/IMG_4993copy_zps1cc8ca6b.png</url>
+                <title>David Jay, a prominent asexual activist</title>
+                <filesize>1170818</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/IMG_5050copy_zps6e9df530.png</url>
+                <title>Toronto hosted WorldPride in 2014</title>
+                <filesize>1157881</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/IMG_5060copy_zpsa5b771eb.png</url>
+                <title>The asexual contigent warming up</title>
+                <filesize>1119760</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/IMG_5184copy_zps329b9a4c.png</url>
+                <title>A fantastic shot of the parade in full swing</title>
+                <filesize>1212199</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/IMG_5210copy_zps7cfaaa5d.png</url>
+                <title>An activist demonstrating the importance of gender identity</title>
+                <filesize>1083542</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/oZs9kvL.png</url>
+                <title>David Jay and Cole Brown: AVEN directors</title>
+                <filesize>949190</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/P2mMFe0.png</url>
+                <title>After the parade, extremely hot!</title>
+                <filesize>581046</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/photo12_zpsaa23609a.png</url>
+                <title>2014 marked the second time AVEN has marched in WorldPride</title>
+                <filesize>1164953</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/PtGOvFn.png</url>
+                <title>Family photo</title>
+                <filesize>853104</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Queen Victoria/Documents/Asexuality/WP14 Photos/v8mR2XV.png</url>
+                <title>Everyone had a good time, and increased awareness!</title>
+                <filesize>582113</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

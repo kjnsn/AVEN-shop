@@ -1,0 +1,141 @@
+a {color: #a1a1a1;}
+a:active {color: #a1a1a1;}
+a:visited {color: #a1a1a1;}
+body,tr,td,caption {font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;color: #636363;}
+form,input,button,select,option {font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+.smallprint {font-size:8pt;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+.checkoutbg {background-color: #ffffff;}
+.tableheaderbg {background-color: #000000;color: #000000;font-weight: bold;}
+.tablebg {background-color: #F5F5F5;color: #000000;}
+.tablebg2 {background-color: #E9E9E9;color: #000000;}
+.sidebarbg {background-color: #ffffff;}
+.smallsidebartext {font-size:8pt;color: #000000;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+.smallselectedsidebartext {font-size:8pt;color: #000000;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;font-weight:bold;}
+.sidebartext {color: #000000;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+.head , H1 {color: #000000;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+.alertmessage {color: #ff0000;font-family:Verdana,Arial,Geneva,Helvetica,sans-serif;}
+img.imageborder,div.imageborder {border-width:0;}
+
+
+
+    body
+        {
+        background-color:#ffffff;
+        }
+    #cpWrapper{
+        padding:0;
+        background-image:url('http://content3.cpcache.com/si/themes/simple_c/simple_pattern.png');
+        border-bottom: 1px solid #1A1A1A;
+        width:1000px;
+        margin:auto;
+        }
+    #shopContainer{
+        width:960px;
+        background-color:#ffffff;
+        margin:0px auto;
+        }    
+    #shopBorder{
+        border:0;
+        background-color:#dfdede;
+        border-top:0;
+        }
+    #shopWrapper{
+        background-color:#ffffff;
+        border:0;
+        padding:30px;
+        }
+    #shopHeader{
+        background-color:#ffffff;
+        }
+   .bodyText a{
+        text-decoration:none;
+        }
+    .center
+        {
+        margin:auto;
+        width:50%;
+        }
+    .smallsidebartext a{
+        font-size: 12px;
+        text-decoration:none;
+        }
+    #sidebarContent {
+        padding: 85px 5px 5px;
+        position: relative;
+        }
+    #sidebarContent table {
+        width:auto;
+        }
+    #sidebarContentTD {
+        min-width:200px;
+        }
+    #shopCollection{
+        font-family:Georgia,"Times New Roman",Times,serif;
+        font-size:15px;
+        font-weight:bold;
+        font-color:#006c67;
+        left: 7px;
+        position: absolute;
+        top: 60px;
+        }
+    .promoBox{
+        margin-top:50px;
+        }
+    .sidebarbg {
+        background-color:#ffffff;
+        border-right: 1px dashed #b5b7b7;
+        }
+    #shopName{
+        font-family:Georgia,Times,serif;
+        font-size:64px;
+        color:#636363;
+        padding:30px 10px;
+        }
+    #colorBar{
+        height:16px;
+        }
+    #topNav{
+        background-color:#ffffff;
+        font-family:"times New Roman",Times,serif;
+        font-size:16px;
+        font-weight:bold;
+        color:#ffffff;
+        text-align:center;
+        width:910px;
+        margin:auto auto 25px;
+        border-top: 1px solid #636363;
+        border-bottom: 1px solid #636363;
+        padding:0 10px;
+        }
+    #topNav ul, #topNav ul li{
+        margin:0;
+        padding:0;
+        list-style:none;
+        float:left;
+        }
+    #topNav ul{
+        width:910px;
+        }
+    #topNav ul li a{
+        display:block;
+        padding:15px 27px;
+        line-height:100%;
+        color:#636363;
+        text-decoration:none;
+        }
+    #searchFormContainer{
+        width:206px;
+        float:right;
+        left: -16px;
+        position: absolute;
+        top: 0;
+        }
+    #submitSearch{
+        float:right;
+        }
+    #searchTerm{
+        float:left;
+        width:125px;
+        height:16px;
+        padding:3px;
+        }
